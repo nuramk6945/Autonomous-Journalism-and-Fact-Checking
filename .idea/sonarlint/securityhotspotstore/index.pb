@@ -7,3 +7,5 @@ I
 contracts/fact-check.clar,b/9/b91f6a5d15f7fc92899f5c2e385198bc58917b37
 H
 tests/fact-check.test.ts,b/2/b2282e48dbbf29024714ce604c7eb78cb3b51bd5
+F
+contracts/staking.clar,0/4/04e6d8a0b693401a319e2ebf6f1abab8520c9ae4
