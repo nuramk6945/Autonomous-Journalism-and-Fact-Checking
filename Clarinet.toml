@@ -15,6 +15,11 @@ path = 'contracts/news-article.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.reward-distribution]
+path = 'contracts/reward-distribution.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.staking]
 path = 'contracts/staking.clar'
 clarity_version = 2
